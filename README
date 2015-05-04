@@ -1,0 +1,13 @@
+This is my first jab at GO.
+
+I think it is a really cool langauge well worth investigating.
+It seems to deal away with all the dependency nightmares we are
+used to from java and python.
+
+In my opninion it is best when trying to deploy something
+and you do not have access to installing stuff on the server on which you want to deploy
+
+This sample app is a restful api.
+
+All credits go to:
+http://thenewstack.io/make-a-restful-json-api-go/ << Awesome post
